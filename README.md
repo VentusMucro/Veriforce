@@ -1,2 +1,4 @@
 Veriforce
-RIP Push Up Contest. 
+Project Ideas:
+
+1) Video Player Widget
