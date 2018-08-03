@@ -1,0 +1,10 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "Veriforce 2018",
+      "license": "Apache 2",
+      "author": "Paul Cornwell, Jeremy Oliver, Jonathan Vazquez, Moiz Ali",
+      "boilerplate": "appstore"
+    }
+  }
+}
